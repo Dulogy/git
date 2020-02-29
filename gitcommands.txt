@@ -1,0 +1,22 @@
+Git commands --->>>
+
+1) To install git on your system
+
+        command  =   sudo apt-get install git
+
+2) To check version of git
+      
+   	command =  git –version
+
+3) To configure/set your name on system for git
+
+	command = git config –global user.name”your_name”
+
+4) To configure/set your email on system for git
+
+	command = git config –global user.email xyz1123@gmail.com
+
+5) To check your name and  email
+
+	command = git config –list / git config user.name / git config user.email
+
