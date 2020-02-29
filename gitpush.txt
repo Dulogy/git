@@ -1,0 +1,8 @@
+﻿ push a repository on github
+
+1)  make a folder (for eg. On desktop create folder git_project)
+2)  put the files  in this folder you wish to push on the github
+3)  open the path of the folder in the terminal
+4) 
+
+
