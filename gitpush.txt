@@ -3,6 +3,8 @@
 1)  make a folder (for eg. On desktop create folder git_project)
 2)  put the files  in this folder you wish to push on the github
 3)  open the path of the folder in the terminal
-4) 
-
+4) initialize the git with  git init command
+5) write command add .  to add all file or add filename
+6)  write command git commit -m “message which you want to dispay”
+7) write command  git push origin master (to push file to the github)
 
