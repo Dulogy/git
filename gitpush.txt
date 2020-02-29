@@ -6,5 +6,6 @@
 4) initialize the git with  git init command
 5) write command add .  to add all file or add filename
 6)  write command git commit -m “message which you want to dispay”
-7) write command  git push origin master (to push file to the github)
-
+7) write command  git push origin master (to push file to the github).
+8) to get most recent changes you can use  git pull origin master command if you are working on master branch.
+9) now you can use git log command to see all commits.
